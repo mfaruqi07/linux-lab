@@ -1,3 +1,11 @@
-# linux-lab
-Linux and GitHub lab practice.
-I am learning how to manage Linux lab files using Git and GitHub.
+## Purpose
+This repository stores my Linux class lab files and GitHub practice.
+
+## Skills Practiced
+-Linux terminal commands
+-Git add, commit, push, and pull
+-Markdown documentation
+-Evidence collection
+
+## Author
+Maha Faruqi
